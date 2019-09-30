@@ -1,8 +1,8 @@
 def square_array(numbers)
-  
-  array = []
-  while array > 0 do
-    array << numbers ** 2
-  end
-  return array
+  counter = 0
+array = []
+ 
+while array [counter] do
+  puts numbers ** 2 
+  counter += 1
 end
